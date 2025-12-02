@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(0, 0, 3);
+    color: white;
+}
+
+#card {
+    background-color: whitesmoke;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 8px 8px rgb(0, 38, 48);
+}
+
+#price-icon {
+    display: inline;
+}
+
+#price {
+    display: inline;
+}
